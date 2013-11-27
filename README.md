@@ -1,11 +1,11 @@
 Koaltionsvertrag 2013 - Enhanced Edition
-========================================
+----------------------------------------
 
 Für die Darstellung im Web angepasste und durch Verlinkungen und Quellenangaben erweitere
 Version des Koalitionsvertrages von CDU/CSU und SPD. Keine offizielle Quelle!
 
 Pull Requests sind gerne willkommen
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Ihr könnt mittels Pull Requests mithelfen, die Nützlichkeit dieses Dokumentes weiter zu 
 verbessern.
 
