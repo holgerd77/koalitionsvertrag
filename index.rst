@@ -24,8 +24,11 @@ Was kann ich mit diesem Dokument machen?
 
 Inhaltsverzeichnis:
 
+1. Wachstum, Innovation und Wohlstand
+-------------------------------------
+
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    
    1_wachstum/1_1_wirtschaft.rst
    1_wachstum/1_2_bildung.rst
@@ -33,5 +36,41 @@ Inhaltsverzeichnis:
    1_wachstum/1_4_energiewende.rst
    1_wachstum/1_5_finanzmaerkte.rst
 
+2. Vollbeschäftigung, gute Arbeit und soziale Sicherheit
+--------------------------------------------------------
 
+.. toctree::
+   :maxdepth: 2
+      
+   2_arbeit/2_1_beschaeftigungschancen.rst
+   2_arbeit/2_2_gute_arbeit.rst
+   2_arbeit/2_3_soziale_sicherheit.rst
+   2_arbeit/2_4_gesundheit_pflege.rst
+
+3. Solide Finanzen
+------------------
+
+.. toctree::
+   :maxdepth: 2
+   
+   3_finanzen/3_finanzen.rst
+
+4. Zusammenhalt der Gesellschaft
+--------------------------------
+
+.. toctree::
+   :maxdepth: 2
+      
+   4_gesellschaft/4_1_chancengleichheit.rst
+   4_gesellschaft/4_2_lebensqualitaet_stadt_land.rst
+   4_gesellschaft/4_3_kultur_medien_sport.rst
+   4_gesellschaft/4_4_digitale_agenda.rst
+
+5. Moderner Staat, innere Sicherheit und Bürgerrechte
+-----------------------------------------------------
+
+.. toctree::
+   :maxdepth: 2
+      
+   5_moderner_staat/5_1_freiheit_sicherheit.rst
 
