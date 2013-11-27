@@ -15,8 +15,9 @@ Koalitionsvertrag 2013 - Enhanced Edition (unofficial)
 
 Was kann ich mit diesem Dokument machen?
 
-* Verlinkung von Inhalten [LINK EINFÜGEN]
-* Suchen nach bestimmten Begriffen [LINK EINFÜGEN]
+* Verlinkung von konkreten Inhalten (z.B. Link zum Abschnitt über `Europäische Wirtschaftspolitik <1_wachstum/1_1_wirtschaft.html#europaische-wirtschaftspolitik>`_)
+* Suchen nach bestimmten Begriffen (z.B. Suche nach `"Rohstoffe" <search.html?q=Rohstoffe&check_keywords=yes&area=default>`_, `"Bildung" <search.html?q=Bildung&check_keywords=yes&area=default>`_, 
+  `"Transparenz" <search.html?q=Transparenz&check_keywords=yes&area=default>`_ usw.)
 
 Inhaltsverzeichnis:
 
