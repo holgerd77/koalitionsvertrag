@@ -18,7 +18,7 @@ Anregungen für Pull Requests:
 
 
 ### Page Creation Process
-This was created using the following tools
+This document was created using the following tools:
 * [Python Sphinx](http://sphinx-doc.org/) for document creation
 * [PDFMiner](http://www.unixuser.org/~euske/python/pdfminer/) for PDF parsing
 
