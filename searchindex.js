@@ -1,1 +1,1 @@
-Search.setIndex({objects:{},terms:{edit:0,unoffici:0,enhanc:0,koalitionsvertrag:0,inhaltsverzeichni:0},objtypes:{},titles:["Koalitionsvertrag 2013 - Enhanced Edition (unofficial)"],objnames:{},filenames:["index"]})
+Search.setIndex({objects:{},terms:{edit:0,enhanc:0,inhaltsverzeichni:0,test:0,unoffici:0,koalitionsvertrag:0},objtypes:{},titles:["Koalitionsvertrag 2013 - Enhanced Edition (unofficial)"],objnames:{},filenames:["index"]})
