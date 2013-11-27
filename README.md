@@ -8,7 +8,7 @@ Version des Koalitionsvertrages von CDU/CSU und SPD. Keine offizielle Quelle!
 Ihr könnt mittels Pull Requests mithelfen, die Nützlichkeit dieses Dokumentes weiter zu 
 verbessern.
 
-### Anregungen für Pull Requests:
+Anregungen für Pull Requests:
 * Erstens
 * Zweitens
 * Drittens
