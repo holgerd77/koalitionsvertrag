@@ -13,6 +13,9 @@ Koalitionsvertrag 2013 - Enhanced Edition (unofficial)
 			 von Inhalten. Im Zweifel bitte die Originalquelle zu Rate ziehen:
 			 http://www.cdu.de [QUELLENANGABE ERSETZEN] 
 
+.. note:: Alle Links zu externen Quellen sind ergänzend eingefügt und nicht Teil des 
+          Originaldokumentes!
+
 Was kann ich mit diesem Dokument machen?
 
 * Verlinkung von konkreten Inhalten (z.B. Link zum Abschnitt über `Europäische Wirtschaftspolitik <1_wachstum/1_1_wirtschaft.html#europaische-wirtschaftspolitik>`_)
