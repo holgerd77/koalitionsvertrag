@@ -436,7 +436,7 @@ Der Tourismus in Deutschland ist ein wichtiger Wirtschaftsfaktor, der vielen Men
 Tourismus ein gutes Preis-Leistungsverhältnis, Qualität und Freundlichkeit im Service und weitere Anstrengungen mit Blick auf die Barrierefreiheit. Um qualifizierte 
 Fachkräfte muss sich das Gastgewerbe, etwa durch verbesserte Ausbildungsanstrengungen, verstärkt bemühen. Der Ausbau der touristischen Infrastruktur muss mit 
 den vorhandenen und bewährten Förderinstrumentarien weiter unterstützt werden. 
-Die Deutsche Zentrale für Tourismus (DZT) soll die internationale Vermarktung des 
+Die `Deutsche Zentrale für Tourismus (DZT) <http://www.germany.travel>`_ soll die internationale Vermarktung des 
 Reiselandes Deutschlands auf dem bisherigen Niveau weiter unterstützen und auch 
 dazu beitragen, die Bekanntheit von bislang weniger frequentierten Tourismusgebieten zu erhöhen. Wir wollen eine „Initiative Kulturtourismus“ ins Leben rufen und in 
 Zusammenarbeit mit den Ressorts Kultur und Wirtschaft gestalten. Wesentliche Ziele 
