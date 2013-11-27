@@ -11,7 +11,7 @@ ergänzen:
 * Hinzufügen externer Quellen zur Schaffung von Kontext wie z.B. im Bereich 
   [Tourismus](http://holgerd77.github.io/koalitionsvertrag/1_wachstum/1_1_wirtschaft.html#tourismus)
   der Link zur Deutschen Zentrale für Tourismus (DZT), oft bieten sich auch Wikipedia-Artikel an
-
+* Bitte keine Meinungsartikel (Warum Inhalt XY doof ist)
 
 ### Kontakt
 [@HolgerD77](https://twitter.com/holgerd77)
