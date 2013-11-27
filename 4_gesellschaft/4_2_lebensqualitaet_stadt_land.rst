@@ -13,7 +13,9 @@ ein Bündnis mit den Ländern, Kommunen und allen relevanten gesellschaftlichen 
  
 Wohnungsbau stärken 
 ^^^^^^^^^^^^^^^^^^^
-Die Wohnungsbauprämie und die Arbeitnehmer-Sparzulage bleiben erhalten. Für 
+Die `Wohnungsbauprämie <http://de.wikipedia.org/wiki/Wohnungsbaupr%C3%A4mie>`_
+und die `Arbeitnehmer-Sparzulage <http://de.wikipedia.org/wiki/Arbeitnehmersparzulage>`_ 
+bleiben erhalten. Für 
 das genossenschaftliche Wohnen verbessern wir die Rahmenbedingungen und prüfen, wie der Erwerb von Genossenschaftsanteilen, die sich im Gegenzug zu Neubau 
 verpflichten, besser gefördert werden kann.  
  
@@ -158,8 +160,9 @@ Nachhaltigkeit
 Für uns ist die Förderung einer nachhaltigen Entwicklung grundlegendes Ziel und 
 Maßstab des Regierungshandelns. Dies gilt insbesondere für eine Post-2015Agenda für nachhaltige Entwicklung der Vereinten Nationen. Wir werden uns für eine 
 Stärkung der europäischen Nachhaltigkeitsstrategie einsetzen. Wir verstärken die 
-nationalen Nachhaltigkeitsziele und setzen sie um, wie etwa im öffentlichen Beschaffungswesen. Wir wollen „Bildung zur Nachhaltigen Entwicklung“ in allen Bildungsbereichen stärker verankern. Die Ergebnisse der Enquetekommission „Wachstum, 
-Wohlstand, Lebensqualität“ des Deutschen Bundestages werden einbezogen. Der 
+nationalen Nachhaltigkeitsziele und setzen sie um, wie etwa im öffentlichen Beschaffungswesen. Wir wollen „Bildung zur Nachhaltigen Entwicklung“ in allen Bildungsbereichen stärker verankern. Die Ergebnisse der 
+`Enquetekommission „Wachstum, Wohlstand, Lebensqualität“ <http://www.bundestag.de/bundestag/gremien/enquete/wachstum/>`_ 
+des Deutschen Bundestages werden einbezogen. Der 
 Parlamentarische Beirat für nachhaltige Entwicklung wird erneut eingesetzt und in 
 seiner Funktion gestärkt. Die ressortübergreifende Koordinierung wird ausgebaut. Im 
 Subventionsbericht der Bundesregierung wird stärker überprüft, ob die Maßnahmen 

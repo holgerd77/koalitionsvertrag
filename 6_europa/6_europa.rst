@@ -328,7 +328,9 @@ konstitutiver Bestandteil unserer Europapolitik.
 
 Die Glaubwürdigkeit der Europäischen Union in ihrem internationalen Einsatz für 
 Menschenrechte hängt maßgeblich davon ab, wie konsequent sie ihre Werte lebt 
-und deren Verletzung im Innern ahndet. Die Bundesregierung setzt sich auf Grundlage von Artikel 7 EUV für einen wirksamen Mechanismus zur Einhaltung rechtsstaatlicher und demokratischer Standards in Europa ein, um den Schutz der Werte, 
+und deren Verletzung im Innern ahndet. Die Bundesregierung setzt sich auf Grundlage von 
+`Artikel 7 EUV <http://dejure.org/gesetze/EU/7.html>`_
+für einen wirksamen Mechanismus zur Einhaltung rechtsstaatlicher und demokratischer Standards in Europa ein, um den Schutz der Werte, 
 wie sie in Artikel 2 EUV verankert sind, zu gewährleisten. 
  
 Die deutsch-französische Partnerschaft ist in ihrer Breite und Tiefe einzigartig. Unsere Länder haben als starke Wirtschaftsnationen ein besonderes Interesse, aber auch 

@@ -12,7 +12,9 @@ Verkehrswege durch eine grundlegende Reform auf eine neue, dauerhaft verlässlic
  
 Netzorientierte Bundesverkehrswegeplanung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Die Aufstellung des neuen Bundesverkehrswegeplans 2015 – 2030 (BVWP) als verkehrsträgerübergreifende Netzplanung werden wir zügig, transparent und unter Beteiligung der Öffentlichkeit vorantreiben. Dabei werden wir auf eine bedarfsgerechte 
+Die Aufstellung des neuen 
+`Bundesverkehrswegeplans 2015 – 2030 (BVWP) <http://www.bmvbs.de/DE/VerkehrUndMobilitaet/Verkehrspolitik/Verkehrsinfrastruktur/Bundesverkehrswegeplan/bundesverkehrswegeplan_node.html>`_
+als verkehrsträgerübergreifende Netzplanung werden wir zügig, transparent und unter Beteiligung der Öffentlichkeit vorantreiben. Dabei werden wir auf eine bedarfsgerechte 
 Dimensionierung von Neu- und Ausbauprojekten achten. Nicht jeder Wunsch ist erfüllbar. Für besonders dringende und schnell umzusetzende überregional bedeutsame Vorhaben wird im neuen BVWP und in den Ausbaugesetzen für die Verkehrsträger Schiene, Straße und Wasserstraße ein „nationales Prioritätenkonzept“ definiert. 
 In diese Projekte sollen künftig als Zielgröße 80 Prozent der Mittel für den Neu- und 
 Ausbau fließen. Dazu gehören der Ausbau hoch belasteter Knoten, Seehafenhinterlandanbindungen und Hauptachsen, die Schließung wichtiger überregional bedeutsamer Netzlücken sowie die Einbindung transeuropäischer und in völkerrechtlichen 

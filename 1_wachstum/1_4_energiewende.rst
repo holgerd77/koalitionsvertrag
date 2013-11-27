@@ -31,7 +31,9 @@ wirtschaftliche Betrieb notwendiger Kapazitäten konventioneller und flexibel ei
  
 Reform des EEG 
 ^^^^^^^^^^^^^^
-Die Koalition strebt eine schnelle und grundlegende Reform des ErneuerbareEnergien-Gesetzes (EEG) an und legt sie bis Ostern 2014 vor mit dem Ziel einer 
+Die Koalition strebt eine schnelle und grundlegende Reform des 
+`ErneuerbareEnergien-Gesetzes (EEG) <http://de.wikipedia.org/wiki/Erneuerbare-Energien-Gesetz>`_
+an und legt sie bis Ostern 2014 vor mit dem Ziel einer 
 Verabschiedung im Sommer 2014, um verlässliche Rahmenbedingungen in der 
 Energiepolitik zu schaffen. Altanlagen genießen Bestandsschutz. Der Vertrauensschutz im Hinblick auf getätigte und in der Realisierung befindliche Investitionen ist 
 entsprechend zu gewähren. 
