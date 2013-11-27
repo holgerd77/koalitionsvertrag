@@ -8,7 +8,7 @@ Koalitionsvertrag 2013 - Enhanced Edition (unofficial)
 
 Inhaltsverzeichnis:
 
-Test
+Test2
 
 .. toctree::
    :maxdepth: 2
