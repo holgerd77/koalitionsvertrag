@@ -73,4 +73,28 @@ Inhaltsverzeichnis:
    :maxdepth: 2
       
    5_moderner_staat/5_1_freiheit_sicherheit.rst
+   5_moderner_staat/5_2_verwaltung_buergerbeteiligung.rst
 
+6. Starkes Europa
+-----------------
+
+.. toctree::
+   :maxdepth: 2
+   
+   6_europa/6_europa.rst
+
+7. Verantwortung in der Welt
+----------------------------
+
+.. toctree::
+   :maxdepth: 2
+   
+   7_verantwortung_welt/7_verantwortung_welt.rst
+
+8. Arbeitsweise der Koalition
+-----------------------------
+
+.. toctree::
+   :maxdepth: 2
+   
+   8_arbeitsweise_koalition/8_arbeitsweise_koalition.rst
