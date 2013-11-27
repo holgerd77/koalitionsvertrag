@@ -7,7 +7,7 @@ Koalitionsvertrag 2013 - Enhanced Edition (unofficial)
 ======================================================
 
 .. note:: ACHTUNG!!! Dies ist keine offizielle Quelle des Koalitionsvertrages von CDU/CSU und SPD,
-			 sondern ein technisches Experiment. Dieses beruht auf der technischen, teilweise
+			 sondern ein technisches Experiment (mehr Infos auf `GitHub <https://github.com/holgerd77/koalitionsvertrag>`_). Dieses beruht auf der technischen, teilweise
 			 automatisierten Verarbeitung der Originalquelle. 
 			 Es besteht keiner Gewähr im Hinblick auf die Vollständigkeit und/oder Korrektheit
 			 von Inhalten. Im Zweifel bitte die Originalquelle zu Rate ziehen:
@@ -29,6 +29,9 @@ Inhaltsverzeichnis:
    
    1_wachstum/1_1_wirtschaft.rst
    1_wachstum/1_2_bildung.rst
+   1_wachstum/1_3_infrastruktur.rst
+   1_wachstum/1_4_energiewende.rst
+   1_wachstum/1_5_finanzmaerkte.rst
 
 
 
