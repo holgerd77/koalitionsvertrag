@@ -149,7 +149,8 @@ Bildung entschlossen nutzt, entwickeln und umsetzen.
  
 Die digitale Lehrmittelfreiheit muss gemeinsam mit den Ländern gestärkt werden. 
 Grundlage hierfür ist ein bildungs- und forschungsfreundliches Urheberrecht und eine 
-umfassende Open-Access-Politik. Schulbücher und Lehrmaterial auch an Hochschulen sollen, soweit möglich, frei zugänglich sein, die Verwendung freier Lizenzen und 
+umfassende `Open-Access <http://de.wikipedia.org/wiki/Open_Access>`_-Politik. 
+Schulbücher und Lehrmaterial auch an Hochschulen sollen, soweit möglich, frei zugänglich sein, die Verwendung freier Lizenzen und 
 Formate ausgebaut werden.  
  
 Nicht nur in Schulen und Kitas möchten wir die IT-Fertigkeiten und den Umgang mit 

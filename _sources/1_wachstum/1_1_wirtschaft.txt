@@ -215,7 +215,8 @@ Strategische Innovationspolitik
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Wir treten für eine strategische Innovationspolitik ein, die von Deutschlands traditionellen industriellen Kernkompetenzen ausgeht. Wir werden neue branchenübergreifende Netzwerke und die Bildung von Innovationsclustern stärker als bisher unterstützen. Wir wollen Verfahrensinnovationen fördern, die das Zusammenspiel von Industrie und industrienahen Dienstleistungen (etwa IT und Logistik) weiter verbessern. 
 Wir wollen, dass sich Partner aus Wirtschaft, Gewerkschaft, Wissenschaft und Bildung in Innovationsbündnissen zusammenschließen. Die Initiierung von Innovationsprozessen zum Beispiel durch Spitzenclusterwettbewerbe oder durch Netzwerke wie 
-die Nationale Plattform Elektromobilität wollen wir auf alle Leitmärkte – auch in Europa – ausweiten.  
+die `Nationale Plattform Elektromobilität <http://www.bmu.de/themen/luft-laerm-verkehr/verkehr/elektromobilitaet/nationale-plattform-elektromobilitaet/>`_ 
+wollen wir auf alle Leitmärkte – auch in Europa – ausweiten.  
  
 Zu diesen Leitmärkten gehören vor allem:  
  
