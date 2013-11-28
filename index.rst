@@ -21,8 +21,17 @@ Was kann ich mit diesem Dokument machen?
 * Verlinkung von konkreten Inhalten (z.B. Link zum Abschnitt über `Europäische Wirtschaftspolitik <1_wachstum/1_1_wirtschaft.html#europaische-wirtschaftspolitik>`_)
 * Suchen nach bestimmten Begriffen (z.B. Suche nach `"Rohstoffe" <search.html?q=Rohstoffe&check_keywords=yes&area=default>`_, `"Bildung" <search.html?q=Bildung&check_keywords=yes&area=default>`_, 
   `"Transparenz" <search.html?q=Transparenz&check_keywords=yes&area=default>`_ usw.)
+* Mitmachen! Schaffen von Kontext durch Verlinkung von Institutionen, Begriffen, Gesetzen (mehr Infos auf `GitHub <https://github.com/holgerd77/koalitionsvertrag>`_)
 
 Inhaltsverzeichnis:
+
+0. Präambel
+-----------
+
+.. toctree::
+   :maxdepth: 1
+   
+   0_praeambel/0_praeambel.rst
 
 1. Wachstum, Innovation und Wohlstand
 -------------------------------------
